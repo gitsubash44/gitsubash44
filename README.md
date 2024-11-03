@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Subash Dhami</h1>
 <h3>A passionate Software Developer & Desiner from Nepal.</h3>
-<p style="color: green;">while(no success)<br>
+<p style="color:green;">while(no success)<br>
 {
   <br> 
   try again();
