@@ -1,8 +1,8 @@
 <h1>Hi 👋, I'm Subash Dhami</h1>
-<h3>A passionate Software Developer from Nepal.</h3>
+<h3>A passionate Software Developer & Desiner from Nepal.</h3>
 <p>while(no success)<br>
 {
-  <br>
+  <br> style="color🍏"
   try again();
   <br>
   if(dead)
