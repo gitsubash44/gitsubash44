@@ -52,10 +52,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitsubash44&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=gitsubash44&theme=onedark&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gitsubash44&theme=tokyonight&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+</p>
 
 ---
 
