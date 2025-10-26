@@ -3,14 +3,15 @@
 
 ---
 
-<p align="center" style="color:green;">
+<p align="center">
   <code>
-  while(no success) {<br>
-  &nbsp;&nbsp;try again();<br>
-  &nbsp;&nbsp;if(dead) break;<br>
-  }<br>
-  // Keep going 💪
+    while(no success) {<br>
+    &nbsp;&nbsp;try again();<br>
+    &nbsp;&nbsp;if(dead) break;<br>
+    }<br>
+    // Keep going 💪
   </code>
+  <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" width="120" align="right" alt="coder gif">
 </p>
 
 ---
