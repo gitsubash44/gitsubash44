@@ -2,21 +2,31 @@
 <h3 align="center">A Passionate Software Developer & Designer from Nepal 🇳🇵</h3>
 
 ---
-  <div align="center">
+<div align="center">
 
-  <p>
-    <span style="float: left; text-align: left; color: lime; font-family: 'Courier New', monospace;">
-      while(no success) {<br>
-      &nbsp;&nbsp;try again();<br>
-      &nbsp;&nbsp;if(dead) break;<br>
-      }<br>
-      // Keep going 💪
-    </span>
+  <table>
+    <tr>
+      <!-- Left Side (Code) -->
+      <td align="left" style="vertical-align: middle;">
+        <pre style="color:lime; font-family: 'Courier New', monospace; font-size:14px;">
+while(no success) {
+    try again();
+    if(dead) break;
+}
+// Keep going 💪
+        </pre>
+      </td>
 
-  <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" width="140" align="right" alt="Coder at work">
-  </p>
+      <!-- Right Side (GIF) -->
+  <td align="right" style="vertical-align: middle;">
+        <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" 
+             alt="Coder at work" width="160">
+      </td>
+    </tr>
+  </table>
 
 </div>
+
 
 ---
 
