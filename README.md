@@ -2,7 +2,6 @@
 <h3 align="center">A Passionate Software Developer & Designer from Nepal 🇳🇵</h3>
 
 ---
-
 <div align="center">
 
   <table>
@@ -17,10 +16,16 @@ while(no success) {
 // Keep going 💪
         </pre>
       </td>
+
+      <!-- Right Side (GIF) -->
+      <td align="right" style="vertical-align: middle;">
+        <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" 
+             alt="Coder at work" width="160">
+      </td>
+    </tr>
   </table>
 
 </div>
-
 
 ---
 
