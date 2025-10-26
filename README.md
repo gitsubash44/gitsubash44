@@ -53,7 +53,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gitsubash44&theme=tokyonight&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=gitsubash44&theme=tokyonight&margin-w=10&margin-h=10" alt="gitsubash44 trophies"/>
+  </a>
 </p>
 
 ---
