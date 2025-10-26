@@ -20,7 +20,7 @@ while(no success) {
       
   <td align="right" style="vertical-align: middle;">
         <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" 
-             alt="Coder at work" width="360">
+             alt="Coder at work" width="360" height="200">
       </td>
     </tr>
   </table>
