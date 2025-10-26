@@ -3,16 +3,24 @@
 
 ---
 
-<p align="left">
-  <code>
-    while(no success) {<br>
-    &nbsp;&nbsp;try again();<br>
-    &nbsp;&nbsp;if(dead) break;<br>
-    }<br>
-    // Keep going 💪
-  </code>
-</p>
-  <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" width="120" align="right" alt="coder gif">
+<div align="center">
+
+  <table>
+    <tr>
+      <!-- Left Side (Code) -->
+      <td align="left" style="vertical-align: middle;">
+        <pre style="color:lime; font-family: 'Courier New', monospace; font-size:14px;">
+while(no success) {
+    try again();
+    if(dead) break;
+}
+// Keep going 💪
+        </pre>
+      </td>
+  </table>
+
+</div>
+
 
 ---
 
