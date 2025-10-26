@@ -3,7 +3,7 @@
 
 ---
 
-<p align="center">
+<p align="left">
   <code>
     while(no success) {<br>
     &nbsp;&nbsp;try again();<br>
@@ -11,8 +11,8 @@
     }<br>
     // Keep going 💪
   </code>
-  <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" width="120" align="right" alt="coder gif">
 </p>
+  <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" width="120" align="right" alt="coder gif">
 
 ---
 
