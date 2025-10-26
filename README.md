@@ -6,8 +6,8 @@
 
   <table>
     <tr>
-      <!-- Left Side (Code) -->
-      <td align="left" style="vertical-align: middle;">
+      
+  <td align="left" style="vertical-align: middle;">
         <pre style="color:lime; font-family: 'Courier New', monospace; font-size:14px;">
 while(no success) {
     try again();
@@ -17,10 +17,10 @@ while(no success) {
         </pre>
       </td>
 
-      <!-- Right Side (GIF) -->
+      
   <td align="right" style="vertical-align: middle;">
         <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" 
-             alt="Coder at work" width="160">
+             alt="Coder at work" width="260">
       </td>
     </tr>
   </table>
