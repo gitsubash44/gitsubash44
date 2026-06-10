@@ -86,5 +86,5 @@ while(no success) {
 
 <p align="center">
   <i>“Code. Create. Inspire.”</i><br/>
-  <b>© 2025 Subash Dhami</b>
+  <b>© Subash Dhami</b>
 </p>
